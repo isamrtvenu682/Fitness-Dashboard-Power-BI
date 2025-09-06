@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\dhubb\OneDrive\Pictures\Screenshots" alt="Fitness Dashboard Thumbnail" width="800">
+  <img src=""C:\Users\dhubb\OneDrive\Desktop\power bi\fitness\Screenshot 2025-09-04 141931.png"" alt="Fitness Dashboard Thumbnail" width="800">
 </p>
 
 🏋️‍♂️ Fitness Analytic Dashboard – Power BI
